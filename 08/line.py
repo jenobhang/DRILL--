@@ -1,7 +1,7 @@
 import turtle
 import random
 import math
-
+#commit
 def stop():
     turtle.bye()
 
@@ -94,5 +94,7 @@ prepare_turtle_canvas()
 p1 = 0, 0
 p2 = 0,0
 draw_line(p1, p2)
+
+
 
 turtle.done()
